@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Instagram: david_was_pro
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- Languages: English And Spainish
 
 <!---
 David-cantCode/David-cantCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
