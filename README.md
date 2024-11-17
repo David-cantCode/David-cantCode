@@ -2,7 +2,7 @@
 - 📫 How to reach me: Instagram: david_was_pro
 - 😄 Pronouns: he/him
 - Languages: English And Spainish
--  🤓 Coding languages: c++, nasm and python
+-  🤓 Coding languages:  nasm, c, c++, c# and python
 
 <!---
 David-cantCode/David-cantCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
