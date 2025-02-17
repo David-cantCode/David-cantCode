@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @David-cantCode
 - Instagram: david_was_pro
 - Languages: English And Spainish
--  🤓 Coding languages:  nasm, c, c++, c#, py and js
+- nasm, c, c++, c#, py and js
 
 <!---
 David-cantCode/David-cantCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
