@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @David-cantCode
-- 📫 How to reach me: Instagram: david_was_pro
-- 😄 Pronouns: he/him
+- Instagram: david_was_pro
 - Languages: English And Spainish
 -  🤓 Coding languages:  nasm, c, c++, c#, py and js
 
